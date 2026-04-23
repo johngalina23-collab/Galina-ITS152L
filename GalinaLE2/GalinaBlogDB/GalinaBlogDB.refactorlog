@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="25a37a4e-b9ab-4f0c-a2e5-7c0d4d2be114" ChangeDateTime="04/23/2026 11:43:40">
+    <Property Name="ElementName" Value="[dbo].[Users].[Password]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Users]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Passwo" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e3c2b5e5-f083-41d4-8847-9b2eba6bb226" ChangeDateTime="04/23/2026 11:43:48">
+    <Property Name="ElementName" Value="[dbo].[Users].[Passwo]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Users]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Password" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="91d4b6dd-e428-4660-9844-ee95f204c875" ChangeDateTime="04/23/2026 11:50:16">
+    <Property Name="ElementName" Value="[dbo].[FK_Posts_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Posts]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Posts_uSERS]" />
+  </Operation>
+</Operations>

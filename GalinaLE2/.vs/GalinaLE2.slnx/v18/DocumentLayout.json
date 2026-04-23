@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B1F4-4CDA-4206-AAC2-6F6FC53CC76C}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\john galina\\source\\repos\\galinale2\\blogdatalibrary\\database\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B1F4-4CDA-4206-AAC2-6F6FC53CC76C}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\database\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B1F4-4CDA-4206-AAC2-6F6FC53CC76C}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\john galina\\source\\repos\\galinale2\\blogdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B1F4-4CDA-4206-AAC2-6F6FC53CC76C}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53561DF3-471A-4E81-BB6C-510D3AE2BD13}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\john galina\\source\\repos\\galinale2\\blogtestui\\blogtestui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53561DF3-471A-4E81-BB6C-510D3AE2BD13}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\blogtestui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:26:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:26:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogTestUI",
+              "DocumentMoniker": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\BlogTestUI\\BlogTestUI.csproj",
+              "RelativeDocumentMoniker": "BlogTestUI\\BlogTestUI.csproj",
+              "ToolTip": "C:\\Users\\John Galina\\source\\repos\\GalinaLE2\\BlogTestUI\\BlogTestUI.csproj",
+              "RelativeToolTip": "BlogTestUI\\BlogTestUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T13:24:06.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
